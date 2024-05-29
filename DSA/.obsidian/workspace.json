@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "8ed916fa72478920",
+    "type": "split",
+    "children": [
+      {
+        "id": "720a4f441512c9e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef076bc8db91b14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1d95605d626b3b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6c492813679fc81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bb2556b04ad09db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6843a908732eacd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0d6dc28d836f364",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d12ae3249ecf413",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace9077777ae346b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "604f9a7c3706d33e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structures And Algorithms/00 Complexity Analysis/Time Complexity and Big O Notation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c8e67529cb00447",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Structures And Algorithms/00 Complexity Analysis/Time Complexity and Big O Notation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55826f75da82a327",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e6ed88d5983f2f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Structures And Algorithms/00 Complexity Analysis/Time Complexity and Big O Notation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4bb2556b04ad09db",
+  "lastOpenFiles": [
+    "Data Structures And Algorithms/00 Complexity Analysis/How to Calculate Time Complexity of an Algorithm.md",
+    "Data Structures And Algorithms/00 Complexity Analysis/Best Case, Worst Case and Average Case Analysis of an Algorithm.md",
+    "Data Structures And Algorithms/00 Complexity Analysis/Asymptotic Notations.md",
+    "DSA.canvas",
+    "Data Structures And Algorithms/03 Stack/Applications/Parentheses Matching Problem Using Stack Data Structure.md",
+    "Data Structures And Algorithms/03 Stack/Applications/Multiple Parentheses Matching Using Stack.md",
+    "Data Structures And Algorithms/03 Stack/Applications/Infix, Prefix and Postfix Expressions.md",
+    "Data Structures And Algorithms/03 Stack/Applications/Infix To Postfix Using Stack.md",
+    "Data Structures And Algorithms/Assets/Visualizing Big O.png",
+    "Data Structures And Algorithms/Assets/Types of Edges.png",
+    "Data Structures And Algorithms/Assets/Structure of a linked list.png",
+    "Data Structures And Algorithms/Assets/Traversal.png",
+    "Data Structures And Algorithms/Assets/Stack.png",
+    "Data Structures And Algorithms/Assets/Short trick Pre-Order.png",
+    "Data Structures And Algorithms/Assets/stack (linked list).png",
+    "Data Structures And Algorithms/Assets/Short trick Post-Order.png",
+    "Data Structures And Algorithms/Assets/Short trick In-Order.png",
+    "Data Structures And Algorithms/Assets/RL Rotation 2.png",
+    "Data Structures And Algorithms/07 Graphs/Spanning Trees & Maximum Number of Possible Spanning Trees for Complete Graphs.md",
+    "Data Structures And Algorithms/07 Graphs/Introduction to Graphs, Graph Data Structure.md",
+    "Data Structures And Algorithms/07 Graphs/Graph traversal & Graph traversal algorithm.md",
+    "Data Structures And Algorithms/07 Graphs/Depth First Search (DFS) Graph Traversal in Data Structures.md",
+    "Data Structures And Algorithms/06 Trees/Traversal in Binary Tree (In-Order, Post-Order and Pre-Order Traversals).md",
+    "Data Structures And Algorithms/06 Trees/Introduction to Trees.md",
+    "Data Structures And Algorithms/06 Trees/Insertion in AVL Tree.md",
+    "Data Structures And Algorithms/06 Trees/Insertion in a Binary Search Tree.md",
+    "Data Structures And Algorithms/06 Trees/Binary tree.md",
+    "Data Structures And Algorithms/06 Trees/Binary Search Tree, Introduction & Properties.md",
+    "Data Structures And Algorithms/06 Trees/AVL Trees - Introduction.md",
+    "Data Structures And Algorithms/05 Sorting/Quick sort and Merge sort.md",
+    "Data Structures And Algorithms/05 Sorting/Count sort.md",
+    "Data Structures And Algorithms/05 Sorting/Introduction to Sorting Algorithms.md",
+    "Data Structures And Algorithms/05 Sorting/Bubble sort, Insertion sort and Selection sort.md",
+    "Data Structures And Algorithms/01 Arrays/Arrays and Abstract Data Type in Data Structure.md",
+    "Data Structures And Algorithms/04 Queues/Queue Using Linked Lists.md",
+    "Data Structures And Algorithms/04 Queues/Queue Implementation Array Implementation of Queue in Data Structure.md",
+    "Data Structures And Algorithms/04 Queues/Queue Data Structure.md",
+    "Data Structures And Algorithms/03 Stack/Applications",
+    "Data Structures And Algorithms/Assets",
+    "Data Structures And Algorithms/07 Graphs",
+    "Data Structures And Algorithms/06 Trees",
+    "Data Structures And Algorithms/05 Sorting",
+    "Data Structures And Algorithms/04 Queues",
+    "Data Structures And Algorithms/03 Stack",
+    "Data Structures And Algorithms/02 Linked Lists",
+    "Data Structures And Algorithms/01 Arrays",
+    "Data Structures And Algorithms/00 Complexity Analysis"
+  ]
+}
